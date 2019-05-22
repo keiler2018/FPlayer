@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/pausehoverpressed.png</file>
+        <file>resources/pausenormal.png</file>
+        <file>resources/playhoverpressed.png</file>
+        <file>resources/playnormal.png</file>
+        <file>resources/stopdisabled.png</file>
+        <file>resources/stophoverpressed.png</file>
+        <file>resources/stopnormal.png</file>
+        <file>BottomTool.qml</file>
+        <file>RightHistory.qml</file>
+        <file>resources/left.svg</file>
+        <file>resources/right.svg</file>
+        <file>CenterVideo.qml</file>
+        <file>resources/fileOpen.svg</file>
+        <file>resources/audio.svg</file>
+        <file>resources/mute.svg</file>
+        <file>resources/app.ico</file>
+    </qresource>
+</RCC>
